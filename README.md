@@ -1,7 +1,7 @@
 <div align="center">
 <h1>The-perfect-portfolio</h1>
 </div>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/react-%2361DAFB?style=flat-square&logo=react) ![No License](https://img.shields.io/badge/license-None-lightgrey) 
+[JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript) [React](https://img.shields.io/badge/react-%2361DAFB?style=flat-square&logo=react) [No License](https://img.shields.io/badge/license-None-lightgrey) 
 A simple professional portfolio using Shadcn UI.
 ## Project Description
 This project is a personal portfolio website built using React and the Shadcn UI component library.  It provides a clean and modern interface to showcase projects, skills, and contact information.  This is a work in progress and welcomes contributions!
