@@ -1,59 +1,46 @@
 # <div align="center">
-<h1>The-perfect-portfolio</h1>
+<h1>Scanix_AI</h1>
 </div>
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/react-%2361DBFB.svg?style=flat-square&logo=react) ![No License](https://img.shields.io/badge/license-None-lightgrey) ![GitHub repo size](https://img.shields.io/github/repo-size/Ansh-dhanani/The-perfect-portfolio)
-**A simple professional portfolio using Shadcn UI.**
-This project is a personal portfolio built with React and Shadcn UI, showcasing my skills and projects.  It's designed to be clean, modern, and professional.  Currently maintained by Ansh-dhanani.
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)](https://www.javascript.com/) [![License](https://img.shields.io/badge/License-No%20License-lightgrey)](https://github.com/Ansh-dhanani/Scanix_AI/blob/main/LICENSE) [
+**Description:** null
+This project, Scanix_AI, is a modern application built with JavaScript, Python, Batchfile, CSS, and HTML.  It's currently under active development by Ansh-dhanani.  Visit the live application at [https://scanix-ai.vercel.app](https://scanix-ai.vercel.app).
 ## Table of Contents
-* [Features](#features)
-* [Tech Stack](#tech-stack)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [Roadmap](#roadmap)
-* [Changelog](#changelog)
-* [Contact](#contact)
-## Features
-* **Clean and Modern Design:**  Utilizes Shadcn UI for a polished and professional aesthetic.
-* **Responsive Layout:** Adapts seamlessly to various screen sizes.
-* **[Placeholder for Feature 1]:**  *(Add a brief description of a planned feature)*
-* **[Placeholder for Feature 2]:**  *(Add a brief description of a planned feature)*
-* **[Placeholder for Feature 3]:**  *(Add a brief description of a planned feature)*
-## Tech Stack
-* **Frontend:** React, Shadcn UI, Tailwind CSS, Framer Motion
-* **Styling:** Tailwind CSS
-* **Utilities:** clsx, class-variance-authority
-* **Radix UI:** @radix-ui/react-aspect-ratio, @radix-ui/react-context-menu, @radix-ui/react-dialog, @radix-ui/react-dropdown-menu, @radix-ui/react-menubar, @radix-ui/react-slot
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [Roadmap](#roadmap)
+- [Changelog](#changelog)
+- [Screenshots](#screenshots)
 ## Installation
-1. **Prerequisites:** Ensure you have Node.js (v16+ ) and npm (or yarn) installed on your system.
-2. **Clone the repository:** `git clone https://github.com/Ansh-dhanani/The-perfect-portfolio.git`
-3. **Navigate to the project directory:** `cd The-perfect-portfolio`
-4. **Install dependencies:** `npm install`
+Scanix_AI requires Node.js to be installed on your system.  After cloning the repository, navigate to the project directory and install the necessary dependencies using npm:
+npm install
 ## Usage
-To start the development server:
-npm start
-To build the application for production:
-npm run build
-To run the linter:
-npm run lint
-To preview the built application:
-npm run preview
+(Detailed usage instructions will be added here once the project is further developed.)
+## Testing
+To run the tests, use the following command:
+npm test
+(Currently, no test suite is implemented. This will be added in a future update.)
 ## Contributing
-Contributions are welcome!  Please follow these steps:
-1. **Fork the repository.**
-2. **Create a new branch:** `git checkout -b feature/your-feature-name`
-3. **Make your changes and commit them:** `git commit -m "Add your feature"`
-4. **Push the branch:** `git push origin feature/your-feature-name`
-5. **Create a pull request.**  Please ensure your code adheres to the existing coding style and includes thorough testing.
+Contributions are welcome! Please follow these steps:
+1. **Fork** the repository.
+2. **Clone** your forked repository to your local machine.
+3. **Create a new branch** for your feature or bug fix: `git checkout -b feature/your-feature-name`.
+4. **Make your changes** and commit them: `git commit -m "Your descriptive commit message"`.
+5. **Push** your branch to your forked repository: `git push origin feature/your-feature-name`.
+6. **Create a pull request** on the original repository.
+Please ensure your code adheres to the existing coding style and includes relevant tests.  Contact Ansh-dhanani directly for any questions or concerns regarding contributions.
 ## Roadmap
-* **[Milestone 1]:** Implement [Feature Description]
-* **[Milestone 2]:** Add [Feature Description]
-* **[Milestone 3]:** Improve [Area for Improvement]
+* Implement robust unit testing.
+* Add more detailed documentation and usage examples.
+* Develop a comprehensive API (if applicable).
+* Explore integration with external services.
+* Improve the user interface and user experience.
 ## Changelog
-* **8/12/2025:** Initial project setup.
-## Contact
-For any questions or inquiries, please contact Ansh-dhanani directly through GitHub or [add other contact information if desired].
+(A detailed changelog will be maintained here, tracking changes across different versions. Currently, there are no releases.)
 ## Screenshots
-[Placeholder for Screenshot 1]
-[Placeholder for Screenshot 2]
-[Placeholder for Screenshot 3]
+(Placeholder for screenshots of the application. Screenshots will be added as the application progresses.)
+## Contact
+For any questions or issues, please contact Ansh-dhanani via GitHub or through other means.
+## License
+This project is currently not licensed.  A suitable license will be added in a future update.
